@@ -26,14 +26,14 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name's Zhihao and I am a master’s student with TransData Lab under Professor Pu Wang at Central South University since 2017. Prior to join TransData Lab, I completed my bachelor’s degree in Transportation at Central South University, during which I visited The University of British Columbia and University of Oxford for short-term study. I won the 1st prize winner of the 2016 National Competition of Transport Science and Technology of China. I was ranked top 3 in my major and and I graduated from CSU with the highest honor in 2017.
 
-# Education Section
-# educaton_title: Education
-
 # Projects Section
 # projects_title: Projects
 
 # Experience Section
 # experience_title: Experience
+
+# Education Section
+# educaton_title: Education
 
 # More Section
 # more_title: A Little More About Me
@@ -48,7 +48,8 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-remote_theme: sproogen/modern-resume-theme
+theme: modern-resume-theme
+# remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
