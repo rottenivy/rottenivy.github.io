@@ -1,23 +1,23 @@
 # Site
-repository: sproogen/resume-theme
+repository: rottenivy/rottenivy.github.io
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Zhihao Zheng
+title: Transportation Researcher
+email: z.vincent.zheng@gmail.com
+website: https://vincent-zheng.com/
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: ZhihaoZheng95
+github_username:  rottenivy
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+# instagram_username: chillwildlife
+# linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
