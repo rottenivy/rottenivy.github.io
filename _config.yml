@@ -24,9 +24,7 @@ github_username:  rottenivy
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Hello, my name's Zhihao and I am a master’s student with TransData Lab under Professor Pu Wang at Central South University since 2017. Prior to join TransData Lab, I completed my bachelor’s degree in Transportation at Central South University, during which I visited The University of British Columbia and University of Oxford for short-term study. I won the 1st prize winner of the 2016 National Competition of Transport Science and Technology of China. I was ranked top 3 in my major and and I graduated from CSU with the highest honor in 2017.
 
 # Projects Section
 # projects_title: Projects
@@ -47,7 +45,7 @@ more_content: | # this will include new lines to allow paragraphs
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 remote_theme: sproogen/resume-theme
