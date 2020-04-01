@@ -48,7 +48,7 @@ more_content: | # this will include new lines to allow paragraphs
 footer_show_references: false
 
 # Build settings
-theme: rottenivy/modern-resume-theme
+theme: modern-resume-theme
 # remote_theme: sproogen/modern-resume-theme
 
 sass:
