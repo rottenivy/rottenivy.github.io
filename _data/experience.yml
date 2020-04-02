@@ -1,14 +1,4 @@
 - layout: left
-  company: Key Laboratory of Hunan Province for Rail Transport Big Data Research
-  link: 
-  job_title: Research Assistant
-  dates: 2019 - present
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-    Developed a complex network-machine learning (CN-ML) framework to improve machine learning performance during special events.
-
-- layout: left
   company: TransData Lab
   link: 
   job_title: Research Assistant
@@ -18,10 +8,12 @@
   description: | # this will include new lines to allow paragraphs
     Modeled the coupling dynamics of multi-layer public transportation networks using 48 million smart card data;
 
-    Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data.
+    Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data;
+
+    Developed a complex network-machine learning (CN-ML) framework to improve machine learning performance during special events.
 
 - layout: left
-  company: Central South University
+  company: CSU
   link: 
   job_title: Project Leader
   dates: 2015 - 2016
@@ -31,7 +23,7 @@
     Developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
 
 - layout: left
-  company: Central South University
+  company: CSU
   link: 
   job_title: Principal Investigator
   dates: 2014 - 2015
