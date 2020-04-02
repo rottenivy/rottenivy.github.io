@@ -1,9 +1,41 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Key Laboratory of Hunan Province for Rail Transport Big Data Research
+  link: 
+  job_title: Research Assistant
+  dates: 2019 - present
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+    
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Developed a complex network-machine learning (CN-ML) framework to improve machine learning performance during special events.
+
+- layout: left
+  company: TransData Lab
+  link: 
+  job_title: Research Assistant
+  dates: 2016 - present
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Modeled the coupling dynamics of multi-layer public transportation networks using 48 million smart card data;
+
+    Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data.
+
+- layout: left
+  company: Central South University
+  link: 
+  job_title: Project Leader
+  dates: 2015 - 2016
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
+
+- layout: left
+  company: Central South University
+  link: 
+  job_title: Principal Investigator
+  dates: 2014 - 2015
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+    Designed a traffic signal system for blind pedestrians using vibration signals.
