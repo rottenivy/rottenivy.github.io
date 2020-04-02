@@ -37,6 +37,22 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Awards Section
+# more_title: Awards
+awards : | # this will include new lines to allow paragraphs
+   - Outstanding Graduate of Hunan Province (Postgraduate Student) <mark>1.9%</mark>, 2020
+   - 2nd Prize, China Postgraduate Mathematical Contest in Modeling <mark>13%</mark>, 2019
+   - National Scholarship for Postgraduate Student (<mark>2%</mark>, 2018
+   - Outstanding Postgraduate Student, 2018
+   - Postgraduate Fellowship and 1st Class Scholarship, 2017
+   - Outstanding Graduate of Hunan Province (Bachelor Student) <mark>2%</mark>, 2017
+   - National Scholarship for Outstanding Students Majoring in Transportation Engineering <mark>0.8%</mark>, 2016
+   - 1st Prize, National Competition of Transport Science and Technology <mark>2%</mark>, 2016
+   - 1st Class Academic Scholarship, 2015
+   - Xinheng Academic Scholarship, 2015
+   - 2nd Class Academic Scholarship, 2014 & 2016
+   - Outstanding Undergraduate Student, 2014 - 2016
+
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
