@@ -38,8 +38,8 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # Awards Section
-# more_title: Awards
-awards : | # this will include new lines to allow paragraphs
+# awards_title: Awards
+awards_content : | # this will include new lines to allow paragraphs
    - Outstanding Graduate of Hunan Province (Postgraduate Student) <mark>1.9%</mark>, 2020
    - 2nd Prize, China Postgraduate Mathematical Contest in Modeling <mark>13%</mark>, 2019
    - National Scholarship for Postgraduate Student (<mark>2%</mark>, 2018
