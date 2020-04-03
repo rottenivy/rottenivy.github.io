@@ -16,7 +16,7 @@
   job_title: Project Leader
   dates: 2015 - 2016
   description: | # this will include new lines to allow paragraphs
-    National Competition of Transport Science and Technology (NACTranS)
+    *National Competition of Transport Science and Technology (NACTranS)*
 
     Developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
 
@@ -26,6 +26,6 @@
   job_title: Principal Investigator
   dates: 2014 - 2015
   description: | # this will include new lines to allow paragraphs
-    National Innovation and Entrepreneurship Training Program for College Students (Ministry of Education of the People's Republic of China)
+    *National Innovation and Entrepreneurship Training Program for College Students (Ministry of Education of the People's Republic of China)*
 
     Designed a traffic signal system for blind pedestrians using vibration signals.
