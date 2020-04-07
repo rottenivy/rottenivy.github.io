@@ -23,6 +23,10 @@ researchgate_username: Zhihao_Zheng4
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+google_analytics: "UA-141222335-1"
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
