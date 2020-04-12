@@ -4,11 +4,11 @@
   job_title: Research Assistant
   dates: 2016 - present
   description: | # this will include new lines to allow paragraphs
-    Modeled the coupling dynamics of multi-layer public transportation networks using 48 million smart card data;
+    - Modeled the coupling dynamics of multi-layer public transportation networks using 48 million smart card data;
 
-    Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data;
+    - Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data;
 
-    Developed a complex network-machine learning (CN-ML) framework to improve machine learning performance during special events.
+    - Developed a complex network-machine learning (CN-ML) framework to improve machine learning performance during special events.
 
 - layout: left
   company: NACTranS
@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     *National Competition of Transport Science and Technology (NACTranS)*
 
-    Developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
+    - Developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
 
 - layout: left
   company: MOE Project
@@ -28,4 +28,4 @@
   description: | # this will include new lines to allow paragraphs
     *National Innovation and Entrepreneurship Training Program for College Students (Ministry of Education of the People's Republic of China)*
 
-    Designed a traffic signal system for blind pedestrians using vibration signals.
+    - Designed a traffic signal system for blind pedestrians using vibration signals.
