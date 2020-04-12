@@ -4,9 +4,7 @@
   job_title: Research Assistant
   dates: 2016 - present
   description: | # this will include new lines to allow paragraphs
-    *National Natural Science Foundation of China (No. 71871224)*
-
-    - At TransData Lab, I delved into three very interesting topics: 1) when and where travelers tend to use more multi-modal transportation? why? 2) how to accurately locate traffic information obtained from social media? 3) how to imrpove machine learning performance during specil events?
+    At TransData Lab, I delved into three very interesting topics: 1) when and where travelers tend to use more multi-modal transportation? why? 2) how to accurately locate traffic information obtained from social media? 3) how to imrpove machine learning performance during specil events?
 
 - layout: left
   company: NACTranS
