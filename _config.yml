@@ -62,10 +62,13 @@ awards_content : | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in research and innovation some of my other interests and hobbies are:
-   - Traveling
-   - Photography
-   - Playing piano
-   - Gaming
+   ✈️ Traveling
+
+   📷 Photography
+
+   🎹 Playing piano
+
+   🎮 Gaming
 
 # Footer
 footer_show_references: false
