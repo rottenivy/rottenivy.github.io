@@ -42,6 +42,13 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 # educaton_title: Education
 
+# Publications Section
+# publications_title: Awards
+publications_content : | # this will include new lines to allow paragraphs
+   Zheng, Zhihao, et al. "Understanding coupling dynamics of public transportation networks." *EPJ Data Science* 7.1 (2018): 1-16. [pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)
+   
+   For a full list of my pubs, please check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
+
 # Awards Section
 # awards_title: Awards
 awards_content : | # this will include new lines to allow paragraphs
@@ -62,13 +69,14 @@ awards_content : | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in research and innovation some of my other interests and hobbies are:
-   ✈️ Traveling
+   
+   ✈️ Traveling: Canada, UK, Taiwan, Singapore, Hong Kong ...
 
-   📷 Photography
+   📷 Photography: check my Instagram! -> [@vzzheng](https://www.instagram.com/vzzheng/)
 
-   🎹 Playing piano
+   🎹 Playing piano: just start it, lack of practicing -_-
 
-   🎮 Gaming
+   🎮 Gaming: Racing, FPS, FIFA (车枪球！)
 
 # Footer
 footer_show_references: false
