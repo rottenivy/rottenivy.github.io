@@ -6,11 +6,7 @@
   description: | # this will include new lines to allow paragraphs
     *National Natural Science Foundation of China (No. 71871224)*
 
-    - Modeled the coupling dynamics of multi-layer public transportation networks using 48 million smart card data;
-
-    - Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data;
-
-    - Developed a complex network-machine learning (CN-ML) framework to improve machine learning performance during special events.
+    - During my master's research period, I delved into three very interesting topics: 1) when and where travelers tend to use more multi-modal transportation? why? 2) how to accurately locate traffic information obtained from social media? 3) how to imrpove machine learning performance during specil events?
 
 - layout: left
   company: NACTranS
