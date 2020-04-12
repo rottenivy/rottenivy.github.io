@@ -45,9 +45,9 @@ about_content: | # this will include new lines to allow paragraphs
 # Publications Section
 # publications_title: Selected Publications
 publications_content : | # this will include new lines to allow paragraphs
-   Zheng, Zhihao, et al. "Understanding coupling dynamics of public transportation networks." *EPJ Data Science* 7.1 (2018): 1-16. [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)]
+  - Zheng, Zhihao, et al. "Understanding coupling dynamics of public transportation networks." *EPJ Data Science* 7.1 (2018): 1-16. [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)]
    
-   郑治豪, et al. "基于社交媒体大数据的交通感知分析系统." 自动化学报 44.4 (2018): 656-666. [[pdf](http://html.rhhz.net/ZDHXBZWB/html/2018-4-656.htm)]
+  - 郑治豪, et al. "基于社交媒体大数据的交通感知分析系统." 自动化学报 44.4 (2018): 656-666. [[pdf](http://html.rhhz.net/ZDHXBZWB/html/2018-4-656.htm)]
 
    <br>
    For a full list of my pubs, please check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
