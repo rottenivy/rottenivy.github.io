@@ -4,6 +4,8 @@
   job_title: Research Assistant
   dates: 2016 - present
   description: | # this will include new lines to allow paragraphs
+    *National Natural Science Foundation of China, “Large Crowd Gathering Mechanism, Early Warning and Management Method Based on Multi-Source Big Data Fusion” (71871224)*
+
     - Modeled the coupling dynamics of multi-layer public transportation networks using 48 million smart card data;
 
     - Developed a cyber-physical data fusion framework that pinpointed social media traffic reports to road segments using probe vehicle data;
@@ -26,6 +28,6 @@
   job_title: Principal Investigator
   dates: 2014 - 2015
   description: | # this will include new lines to allow paragraphs
-    *National Innovation and Entrepreneurship Training Program for College Students (Ministry of Education of the People's Republic of China)*
+    *National Innovation and Entrepreneurship Training Program for College Students, Ministry of Education of the People's Republic of China*
 
     - Designed a traffic signal system for blind pedestrians using vibration signals.
