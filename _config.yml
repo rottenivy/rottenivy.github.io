@@ -53,7 +53,7 @@ publications_content : | # this will include new lines to allow paragraphs
 # Blogs Section
 # blogs_title : Blog Posts
 blogs_content  : | # this will include new lines to allow paragraphs
-   - [2020Fall美国交通工程专业PhD申请总结](https://zhuanlan.zhihu.com/p/166577140)
+   - [2020Fall美国交通工程专业PhD申请总结(2020-8-4)](https://zhuanlan.zhihu.com/p/166577140)
 
 # Awards Section
 awards_title: Milestones
