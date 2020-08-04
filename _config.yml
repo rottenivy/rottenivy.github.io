@@ -31,7 +31,7 @@ google_analytics: "UA-141222335-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, my name's Zhihao and I am a master’s student with TransData Lab under Professor Pu Wang at Central South University since 2017. Prior to join TransData Lab, I completed my bachelor’s degree in Transportation at Central South University, during which I visited The University of British Columbia and University of Oxford for short-term study. 
+  Hello I am Vincent! I am currently a pre-enrolled PhD student in transportation engineering. My research interest covers machine learning and network dynamics.
 
 # Projects Section
 # projects_title: Projects
@@ -56,20 +56,13 @@ blogs_content  : | # this will include new lines to allow paragraphs
   Pending
 
 # Awards Section
-# awards_title: Awards
+awards_title: Milestones
 awards_content : | # this will include new lines to allow paragraphs
-   - Outstanding Graduate of Hunan Province (Postgraduate Student), 2020 <mark>1.9%</mark>
-   - 2nd Prize, China Postgraduate Mathematical Contest in Modeling, 2019 <mark>13%</mark>
-   - National Scholarship for Postgraduate Student, 2018 <mark>2%</mark>
-   - Outstanding Postgraduate Student, 2018
-   - Postgraduate Fellowship and 1st Class Scholarship, 2017
+   - Outstanding Graduate of Hunan Province (Master Student), 2020 <mark>1.9%</mark>
+   - National Scholarship for Graduate Student, 2018 <mark>2%</mark>
    - Outstanding Graduate of Hunan Province (Bachelor Student), 2017 <mark>2%</mark>
    - National Scholarship for Outstanding Students Majoring in Transportation Engineering, 2016 <mark>0.8%</mark>
    - 1st Prize, National Competition of Transport Science and Technology, 2016 <mark>2%</mark>
-   - 1st Class Academic Scholarship, 2015
-   - Xinheng Academic Scholarship, 2015
-   - 2nd Class Academic Scholarship, 2014 & 2016
-   - Outstanding Undergraduate Student, 2014 - 2016
 
 # More Section
 # more_title: A Little More About Me
