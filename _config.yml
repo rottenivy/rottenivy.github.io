@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 darkmode: false
 
 # Personal info
-name: Zhihao (Vincent) Zheng
+name: Vincent Zheng
 title: Transportation Researcher
 email: z.vincent.zheng@gmail.com
 website: https://vincent-zheng.com/
@@ -47,8 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
 publications_content : | # this will include new lines to allow paragraphs
   For a full list of my pubs, please check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
 
-  - Zheng, Zhihao, et al. "Understanding coupling dynamics of public transportation networks." *EPJ Data Science* 7.1 (2018): 1-16. [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)]
-  - 郑治豪, et al. "基于社交媒体大数据的交通感知分析系统." 自动化学报 44.4 (2018): 656-666. [[pdf](http://html.rhhz.net/ZDHXBZWB/html/2018-4-656.htm)]
+  - Understanding Coupling Dynamics of Public Transportation Networks - *EPJ Data Science* [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)]
+  - A Traffic Sensing and Analyzing System Using Social Media Data - *Acta Automatica Sinica* [[pdf](http://html.rhhz.net/ZDHXBZWB/html/2018-4-656.htm)]
 
 # Blogs Section
 # blogs_title : Blog Posts
@@ -69,13 +69,9 @@ awards_content : | # this will include new lines to allow paragraphs
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in research and innovation some of my other interests and hobbies are:
    
-   ✈️ Traveling: Canada, UK, Taiwan, Singapore, Hong Kong ...
+   ✈️ Traveling
 
-   📷 Photography: check my Instagram! -> [@vzzheng](https://www.instagram.com/vzzheng/)
-
-   🎹 Playing piano: just start it, lack of practicing -_-
-
-   🎮 Gaming: Racing, FPS, FIFA (车枪球！)
+   📷 Photography (Instagram [@vzzheng](https://www.instagram.com/vzzheng/))
 
 # Footer
 footer_show_references: false
