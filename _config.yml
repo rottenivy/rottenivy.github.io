@@ -58,9 +58,9 @@ blogs_content  : | # this will include new lines to allow paragraphs
 # Awards Section
 awards_title: Milestones
 awards_content : | # this will include new lines to allow paragraphs
-   - Outstanding Graduate of Hunan Province (Master Student), 2020 <mark>1.9%</mark>
-   - National Scholarship for Graduate Student, 2018 <mark>2%</mark>
-   - Outstanding Graduate of Hunan Province (Bachelor Student), 2017 <mark>2%</mark>
+   - Outstanding Graduate of Hunan Province (Master Student), 2020 <mark>1%</mark>
+   - National Scholarship for Graduate Student, 2018 <mark>0.1%</mark>
+   - Outstanding Graduate of Hunan Province (Bachelor Student), 2017 <mark>1%</mark>
    - National Scholarship for Outstanding Students Majoring in Transportation Engineering, 2016 <mark>0.8%</mark>
    - 1st Prize, National Competition of Transport Science and Technology, 2016 <mark>2%</mark>
 
@@ -68,7 +68,7 @@ awards_content : | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in research and innovation some of my other interests and hobbies are:
-   
+
    ✈️ Traveling
 
    📷 Photography (Instagram [@vzzheng](https://www.instagram.com/vzzheng/))
