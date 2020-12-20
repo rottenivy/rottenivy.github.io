@@ -1,14 +1,14 @@
-- layout: left
-  name: Central South University
-  jobs:
-    - title: MSc Transportation Engineering
-      dates: 2017 – 2020
-    - title: BEng Transportation Engineering
-      dates: 2013 - 2017
-  description: | # this will include new lines to allow paragraphs
-    During my time at CSU I learnt most of my key skills that have I have taken through my research career such as solving tough problem and leading research projects. I was ranked 3rd in my major and and I received my bachelor's degree from CSU with the highest honor in 2017.
-    
-    I started my research career since my 4th year at CSU. My research lies at the intersection of data analytics, complex network, and machine learning with applications to transportation and mobility. My master's thesis project is using smart card data and multiplex network theory to understand the coupling dynamics in public transportation networks. 
+# - layout: left
+#   name: Central South University
+#   jobs:
+#     - title: MSc Transportation Engineering
+#       dates: 2017 – 2020
+#     - title: BEng Transportation Engineering
+#       dates: 2013 - 2017
+#   description: | # this will include new lines to allow paragraphs
+#     During my time at CSU I learnt most of my key skills that have I have taken through my research career such as solving tough problem and leading research projects. I was ranked 3rd in my major and and I received my bachelor's degree from CSU with the highest honor in 2017.
+
+#     I started my research career since my 4th year at CSU. My research lies at the intersection of data analytics, complex network, and machine learning with applications to transportation and mobility. My master's thesis project is using smart card data and multiplex network theory to understand the coupling dynamics in public transportation networks.
 
 
 
@@ -19,19 +19,19 @@
 #   dates: 2017 – 2020
 #   qualification: MSc Transportation Engineering
 #   quote: >
-    
+
 #   description: | # this will include new lines to allow paragraphs
 #     Thesis Title: Coupling Dynamics of Multiplex Public Transport Network
 
 #     Advisor: Prof. Pu Wang
 
-#     My master's research lies at the intersection of data analytics, complex network, and machine learning with applications to transportation and mobility. 
+#     My master's research lies at the intersection of data analytics, complex network, and machine learning with applications to transportation and mobility.
 
 # - layout: left
 #   name: Central South University (CSU)
 #   dates: 2013 - 2017
 #   qualification: BEng Transportation Engineering
 #   quote: >
-    
+
 #   description: | # this will include new lines to allow paragraphs
-#     During my time at CSU I learnt most of my key skills that have I have taken through my research career such as solving tough problem and leading research teams. 
+#     During my time at CSU I learnt most of my key skills that have I have taken through my research career such as solving tough problem and leading research teams.

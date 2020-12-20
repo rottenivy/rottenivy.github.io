@@ -4,16 +4,16 @@ favicon: images/favicon.ico
 darkmode: false
 
 # Personal info
-name: Vincent Zheng
-title: Transportation Researcher
+name: Vincent Z. Zheng
+title:
 email: z.vincent.zheng@gmail.com
-website: https://vincent-zheng.com/
+website:
 
 # Social links
-twitter_username: ZhihaoZheng95
+twitter_username: vincntzheng
 googlescholar_username: h2Et54sAAAAJ
-researchgate_username: Zhihao_Zheng4
-# github_username:  rottenivy
+# researchgate_username: Zhihao_Zheng4
+github_username:  rottenivy
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -31,7 +31,7 @@ google_analytics: "UA-141222335-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello I am Vincent! I am currently a pre-enrolled PhD student in transportation engineering. My research interest covers machine learning and network dynamics.
+  Hello I am Vincent! I am a PhD student at [McGill University](https://www.mcgill.ca/) in Civil Engineering, working on the subject of spatiotemporal modeling for urban mobility. Prior to joining McGill, I was a bachelor and master student at [Central South University](http://en.csu.edu.cn/).
 
 # Projects Section
 # projects_title: Projects
@@ -45,10 +45,12 @@ about_content: | # this will include new lines to allow paragraphs
 # Publications Section
 # publications_title: Selected Publications
 publications_content : | # this will include new lines to allow paragraphs
-  For a full list of my pubs, please check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
+  If you are interested in my research, here are some papers that might interest you.
 
-  - Understanding Coupling Dynamics of Public Transportation Networks - *EPJ Data Science* [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)]
-  - A Traffic Sensing and Analyzing System Using Social Media Data - *Acta Automatica Sinica* [[pdf](http://html.rhhz.net/ZDHXBZWB/html/2018-4-656.htm)]
+  - Understanding Coupling Dynamics of Public Transportation Networks [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)]
+  -- The literature review in the introduction section is a resource if you want to learn about multiplex network theory and transportation. The methods section provides you a reference if you are interested in using smart card data for trip reconstruction.
+
+  For a complete list of my publications, you can check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
 
 # Blogs Section
 # blogs_title : Blog Posts
@@ -58,11 +60,11 @@ blogs_content  : | # this will include new lines to allow paragraphs
 # Awards Section
 awards_title: Milestones
 awards_content : | # this will include new lines to allow paragraphs
-   - Outstanding Graduate of Hunan Province (Master Student), 2020 <mark>1%</mark>
-   - National Scholarship for Graduate Student, 2018 <mark>0.1%</mark>
-   - Outstanding Graduate of Hunan Province (Bachelor Student), 2017 <mark>1%</mark>
-   - National Scholarship for Outstanding Students Majoring in Transportation Engineering, 2016 <mark>0.8%</mark>
-   - 1st Prize, National Competition of Transport Science and Technology, 2016 <mark>2%</mark>
+   - Outstanding Graduate of Hunan Province (Master Student), 2020
+   - National Scholarship for Graduate Student, 2018
+   - Outstanding Graduate of Hunan Province (Bachelor Student), 2017
+   - National Scholarship for Outstanding Students Majoring in Transportation Engineering, 2016
+   - 1st Place Winner, National Competition of Transport Science and Technology, 2016
 
 # More Section
 # more_title: A Little More About Me
