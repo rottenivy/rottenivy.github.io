@@ -1,23 +1,23 @@
-- layout: left
-  company: TransData Lab
-  link: transdatalab.com
-  job_title: Research Assistant
-  dates: 2016 - 2019
-  description: | # this will include new lines to allow paragraphs
-    I delved into three very interesting topics: 1) when and where travelers use more multi-modal transportation? why? 2) how to accurately locate traffic information obtained from social media? 3) how to imrpove machine learning performance during specil events?
+# - layout: left
+#   company: TransData Lab
+#   link: transdatalab.com
+#   job_title: Research Assistant
+#   dates: 2016 - 2019
+#   description: | # this will include new lines to allow paragraphs
+#     I delved into three very interesting topics: 1) when and where travelers use more multi-modal transportation? why? 2) how to accurately locate traffic information obtained from social media? 3) how to imrpove machine learning performance during specil events?
 
-- layout: left
-  company: NACTranS
-  link: nactrans.com.cn
-  job_title: PI
-  dates: 2015 - 2016
-  description: | # this will include new lines to allow paragraphs
-    My team developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
+# - layout: left
+#   company: NACTranS
+#   link: nactrans.com.cn
+#   job_title: PI
+#   dates: 2015 - 2016
+#   description: | # this will include new lines to allow paragraphs
+#     My team developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
 
-- layout: left
-  company: National Innovation Training Program
-  link: gjcxcy.bjtu.edu.cn
-  job_title: PI
-  dates: 2014 - 2015
-  description: | # this will include new lines to allow paragraphs
-    My team designed a traffic signal system for blind pedestrians using vibration signals to address noise pollution caused by traditional sysetms.
+# - layout: left
+#   company: National Innovation Training Program
+#   link: gjcxcy.bjtu.edu.cn
+#   job_title: PI
+#   dates: 2014 - 2015
+#   description: | # this will include new lines to allow paragraphs
+#     My team designed a traffic signal system for blind pedestrians using vibration signals to address noise pollution caused by traditional sysetms.

@@ -47,13 +47,13 @@ about_content: | # this will include new lines to allow paragraphs
 publications_content : | # this will include new lines to allow paragraphs
   If you are interested in my research, here are some papers that might interest you.
 
-  - Understanding Coupling Dynamics of Public Transportation Networks [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)] (The literature review in the introduction section is a resource if you want to learn about multiplex network theory and transportation. The methods section provides you a reference if you are interested in using smart card data for trip reconstruction.)
+  - *Understanding Coupling Dynamics of Public Transportation Networks* [[pdf](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6)] (The literature review in the introduction section is a resource if you want to learn about multiplex network theory and transportation. The methods section provides you a reference if you are interested in using smart card data for trip reconstruction.)
 
   For a complete list of my publications, you can check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
 
 # Blogs Section
 # blogs_title : Blog Posts
-blogs_content  : | # this will include new lines to allow paragraphs
+# blogs_content  : | # this will include new lines to allow paragraphs
 #  - [2020Fall美国交通工程专业PhD申请总结(2020-8-4)](https://zhuanlan.zhihu.com/p/166577140)
 
 # Awards Section
