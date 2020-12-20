@@ -1,8 +1,18 @@
-- layout: top-middle
-  name: Pending
-  link: 
-  github: 
-  quote: >
-    
-  description: | # this will include new lines to allow paragraphs
-    
+# - layout: top-middle
+#   name: NACTranS, PI (2015 - 2016)
+#   link: http://www.nactrans.com.cn/
+#   github:
+#   quote: >
+
+#   description: | # this will include new lines to allow paragraphs
+#     My team developed a text mining system using natural language processing (NLP) to extract traffic events from social media.
+
+
+# - layout: top-middle
+#   name: MOE Project, PI (2014 - 2015)
+#   link: http://gjcxcy.bjtu.edu.cn/Index.aspx
+#   github:
+#   quote: >
+
+#   description: | # this will include new lines to allow paragraphs
+#     My team designed a traffic signal system for blind pedestrians using vibration signals to address noise pollution caused by traditional sysetms.

@@ -5,7 +5,7 @@ darkmode: false
 
 # Personal info
 name: Vincent Z. Zheng
-# title:
+title: Be Open-Minded
 email: z.vincent.zheng@gmail.com
 website:
 
@@ -31,7 +31,7 @@ google_analytics: "UA-141222335-1"
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello I am Vincent! I am a PhD student at [McGill University](https://www.mcgill.ca/) in Civil Engineering, working on the subject of spatiotemporal modeling for urban mobility. Prior to joining McGill, I was a bachelor and master student at [Central South University](http://en.csu.edu.cn/).
+  Hello I am Vincent! I am a PhD student at [McGill University](https://www.mcgill.ca/) with the Department of Civil Engineering. I work on the subject of spatiotemporal modeling for urban mobility under the supervision of Prof. Lijun Sun. Prior to joining McGill, I was a bachelor and master student at [Central South University](http://en.csu.edu.cn/). My master's research was about human mobility and complex network.
 
 # Projects Section
 # projects_title: Projects
