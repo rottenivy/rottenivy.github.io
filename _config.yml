@@ -52,13 +52,14 @@ publications_content : | # this will include new lines to allow paragraphs
   For a complete list of my publications, you can check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en).
 
 # Blogs Section
-# blogs_title : Blog Posts
-# blogs_content  : | # this will include new lines to allow paragraphs
+blogs_title : Blog Posts
+blogs_content  : | # this will include new lines to allow paragraphs
 #  - [2020Fall美国交通工程专业PhD申请总结(2020-8-4)](https://zhuanlan.zhihu.com/p/166577140)
 
 # Awards Section
 awards_title: Milestones
 awards_content : | # this will include new lines to allow paragraphs
+   - I got two PhD offers from UW Seattle and McGill, 2020
    - Outstanding Graduate of Hunan Province (Master Student), 2020
    - National Scholarship for Graduate Student, 2018
    - Outstanding Graduate of Hunan Province (Bachelor Student), 2017
@@ -68,11 +69,7 @@ awards_content : | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in research and innovation some of my other interests and hobbies are:
-
-   ✈️ Traveling
-
-   📷 Photography (Instagram [@vzzheng](https://www.instagram.com/vzzheng/))
+  I also like photography. I go hiking and take photos every week with my Canon 6D2. You can check my [Instagram](https://www.instagram.com/vzzheng/) for some of my photos.
 
 # Footer
 footer_show_references: false
