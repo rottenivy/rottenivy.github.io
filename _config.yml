@@ -53,7 +53,7 @@ publications_content : | # this will include new lines to allow paragraphs
 # Blogs Section
 blogs_title : Blog Posts
 blogs_content  : | # this will include new lines to allow paragraphs
- - [A guide on how to apply for a PhD in transportation engineering (in Chinese)](https://zhuanlan.zhihu.com/p/166577140)
+ - [A guide on how to apply for a PhD in transportation engineering (in Chinese)](https://zhuanlan.zhihu.com/p/166577140).
 
 # Awards Section
 awards_title: Milestones
