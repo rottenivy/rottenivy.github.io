@@ -33,6 +33,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello I am Vincent! I am a PhD student at [McGill University](https://www.mcgill.ca/) with the Department of Civil Engineering. I work on the subject of spatiotemporal modeling for urban mobility under the supervision of [Prof. Lijun Sun](https://lijunsun.github.io/). I received my BEng and MSc degrees in transportation engineering from [Central South University](http://en.csu.edu.cn/) in 2017 and 2020. My master's research was about human mobility and complex network.
 
+
 # Projects Section
 # projects_title: Projects
 
@@ -47,13 +48,13 @@ publications_title: A Glimpse of My Work
 publications_content : | # this will include new lines to allow paragraphs
   Here list some reading guides to some of my papers that might make your time worthy. I won't call them selected publications as they are not necessarily from flag journals. Nevertheless, you can always check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en) to take a look at my most recent papers and a complete list of my publications.
 
-  - [Understanding Coupling Dynamics of Public Transportation Networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6): The literature review in the paper is a good resource for you if you want to learn about multiplex network theory and transportation. If you are also interested in using smart card data for trip reconstruction, the methods presented in this paper might give you some help. You don't have to read the results part, as they are lengthy and highly empirical.
-  - [Framework for Fusing Traffic Information from Social and Physical Transportation Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201531): The most interesting part of this article is on how to use social media as a supplement to traditional traffic data. The disadvantage of this paper is the lack of convincing ways to determine some parameters. I am still interested in social media data since they are cheap, massive, and ubiquitous. Discussion on social media data usage is highly welcome!
+  - [Understanding Coupling Dynamics of Public Transportation Networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6): The literature review is a good start if you are interested in multiplex network theory and transportation. If you are also interested in using smart card data for trip reconstruction, the methods part might give you some help. You don't have to read the results part, as they are lengthy and highly empirical.
+  - [Framework for Fusing Traffic Information from Social and Physical Transportation Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201531): The most interesting part of this article is on how to use social media as a supplement to traditional traffic data. The disadvantage is the lack of convincing ways to determine some parameters. I am still interested in social media data since they are big, cheap, and ubiquitous. Fell free to drop me a note if you have any idea.
 
 # Blogs Section
 blogs_title : Blog Posts
 blogs_content  : | # this will include new lines to allow paragraphs
- - [A guide on how to apply for a PhD in transportation engineering (in Chinese)](https://zhuanlan.zhihu.com/p/166577140).
+ - [A Guide on How to Apply for a PhD in Transportation Engineering (in Chinese)](https://zhuanlan.zhihu.com/p/166577140).
 
 # Awards Section
 awards_title: Milestones
