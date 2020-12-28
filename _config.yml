@@ -49,7 +49,6 @@ publications_content : | # this will include new lines to allow paragraphs
   Here list some reading guides to some of my papers that might make your time worthy. I won't call them selected publications as they are not necessarily from flag journals. Nevertheless, you can always check my [Google Scholar profile](https://scholar.google.com/citations?user=h2Et54sAAAAJ&hl=en) to take a look at my most recent papers and a complete list of my publications.
 
   - [Understanding Coupling Dynamics of Public Transportation Networks](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-018-0148-6): The literature review is a good start if you are interested in multiplex network theory and transportation. If you are also interested in using smart card data for trip reconstruction, the methods part might give you some help. You don't have to read the results part, as they are lengthy and highly empirical.
-  - [Framework for Fusing Traffic Information from Social and Physical Transportation Data](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0201531): The most interesting part of this article is on how to use social media as a supplement to traditional traffic data. The disadvantage is the lack of convincing ways to determine some parameters. I am still interested in social media data since they are big, cheap, and ubiquitous. Fell free to drop me a note if you have any idea.
 
 # Blogs Section
 blogs_title : Blog Posts
