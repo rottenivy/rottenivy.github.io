@@ -67,8 +67,8 @@ awards_content : | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me
-more_content: | # this will include new lines to allow paragraphs
-  I also like photography. I go hiking and take photos every week with my Canon 6D2. You can check my [Instagram](https://www.instagram.com/vzzheng/) for some of my photos.
+# more_content: | # this will include new lines to allow paragraphs
+  # I also like photography. I go hiking and take photos every week with my Canon 6D2. You can check my [Instagram](https://www.instagram.com/vzzheng/) for some of my photos.
 
 # Footer
 footer_show_references: false
