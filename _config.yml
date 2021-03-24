@@ -53,7 +53,7 @@ publications_content : | # this will include new lines to allow paragraphs
 # Blogs Section
 blogs_title : Blog Posts
 blogs_content  : | # this will include new lines to allow paragraphs
- - 2020-12-24: [How to Apply for a PhD in Transportation Engineering? (in Chinese)](https://zhuanlan.zhihu.com/p/166577140)
+#  - 2020-12-24: [How to Apply for a PhD in Transportation Engineering? (in Chinese)](https://zhuanlan.zhihu.com/p/166577140)
 
 # Awards Section
 awards_title: Milestones
